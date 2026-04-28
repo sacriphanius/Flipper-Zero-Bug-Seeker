@@ -1,0 +1,14 @@
+App(
+    appid="rf_bug_seeker",
+    name="RF Bug Seeker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="rf_bug_seeker_app",
+    stack_size=2 * 1024,
+    fap_category="Sub-GHz",
+    fap_icon="images/icon_10.png",
+    fap_icon_assets="images",
+    fap_description="RF Bug and Hidden Camera Detector using RSSI",
+    fap_author="Open Source",
+    fap_weburl="https://github.com/sacriphanius/rf_bug_seeker",
+    fap_version="1.0",
+)
