@@ -1,8 +1,6 @@
 # RF Bug Seeker for Flipper Zero
 
-<p align="center">
-  <img src="images/icon_10.png" alt="RF Bug Seeker Icon" width="100"/>
-</p>
+
 
 *Read this in other languages: [English](#english) | [Türkçe](#türkçe)*
 
